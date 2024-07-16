@@ -600,7 +600,6 @@ $t['Get Google ID and Key'] = 'Get Google ID and Key';
 $t['Get Linkedin ID and Key'] = 'Get Linkedin ID and Key';
 $t['Get Twitter ID and Key'] = 'Get Twitter ID and Key';
 $t['Get Yahoo ID and Key'] = 'Get Yahoo ID and Key';
-$t['Get imgage error'] = 'Get imgage error';
 $t['Go Back'] = 'Go Back';
 $t['Go Live'] = 'Go Live';
 $t['Go back to the main page'] = 'Go back to the main page';

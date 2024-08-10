@@ -1637,7 +1637,7 @@ if (empty($advancedCustom->disableHTMLDescription)) {
                         if (response.error) {
                             avideoAlert("<?php echo __("Sorry!"); ?>", response.error, "error");
                         } else {
-                            avideoAlert("<?php echo __("Success!"); ?>", "<?php echo __("Video Swaped!"); ?>", "success");
+                            avideoAlert("<?php echo __("Success!"); ?>", "<?php echo __("Video swapped!"); ?>", "success");
                             $("#grid").bootgrid("reload");
                         }
                     }

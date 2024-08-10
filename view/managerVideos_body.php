@@ -1438,7 +1438,7 @@ if (empty($advancedCustom->disableHTMLDescription)) {
      .attr("aria-valuenow", p100)
      .text("End: " + p100 + "%");
      }
-     
+
      function viewsDetailsReset() {
      $("#videoViewFormModal .modal-title").html("Loading ... ");
      $("#progress25 .progress-bar")

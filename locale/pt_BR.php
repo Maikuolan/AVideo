@@ -782,7 +782,6 @@ $t['Advanced configuration'] = 'Configuração avançada';
 $t['Advertising Title'] = 'Título publicitário';
 $t['After enabling this, you can directly set some options, like the name, linkand active categorie for example.'] = 'Depois de habilitar isso, você pode definir diretamente algumas opções, como nome, link e categoria ativa, por exemplo.';
 $t['After sign up we will automatic send a verification email'] = 'Após a inscrição enviaremos automaticamente um e-mail de verificação';
-$t['Agenda 21'] = 'Agenda 21';
 $t['Ago'] = 'Ago';
 $t['Agreement ID'] = 'ID do contrato';
 $t['Agreement Id'] = 'Id do contrato';

@@ -1392,7 +1392,6 @@ $t['About'] = 'About';
 $t['Actions'] = 'Actions';
 $t['Add to Program'] = 'Add to Program';
 $t['Admin Users'] = 'Admin Users';
-$t['Agenda 21'] = 'Agenda 21';
 $t['All you need to do is to verify your e-mail by clicking the link below'] = 'All you need to do is to verify your e-mail by clicking the link below';
 $t['Are you sure?'] = 'Are you sure?';
 $t['Articles'] = 'Articles';

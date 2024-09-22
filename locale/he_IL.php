@@ -72,7 +72,6 @@ $t['Advertising Manager'] = 'מנהל פרסום';
 $t['Advertising Title'] = 'כותרת פרסום';
 $t['After enabling this, you can directly set some options, like the name, linkand active categorie for example.'] = 'לאחר הפיכת אפשרות זו לזמינה, באפשרותך להגדיר ישירות אפשרויות מסוימות, כגון השם, קישור וקטגוריה פעילה לדוגמה.';
 $t['After sign up we will automatic send a verification email'] = 'לאחר ההרשמה נשלח אוטומטית דוא"ל אימות';
-$t['Agenda 21'] = "אג'נדה 21";
 $t['Ago'] = 'לפני';
 $t['Agreement ID'] = 'קוד הסכם';
 $t['Agreement Id'] = 'קוד הסכם';

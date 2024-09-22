@@ -1466,7 +1466,6 @@ $t['Ad'] = 'Ad';
 $t['Add'] = 'Add';
 $t['Admin Panel'] = 'Admin Panel';
 $t['Admin'] = 'Admin';
-$t['Agenda 21'] = 'Agenda 21';
 $t['Ago'] = 'Ago';
 $t['All you need to do is to verify your e-mail by clicking the link below'] = 'All you need to do is to verify your e-mail by clicking the link below';
 $t['Arrow'] = 'Arrow';

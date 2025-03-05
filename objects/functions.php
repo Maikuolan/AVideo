@@ -6044,6 +6044,7 @@ function hashToID($hash)
  * @param string $hash
  * @return int
  */
+#[\Deprecated]
 function hashToID_old($hash)
 {
     global $global;

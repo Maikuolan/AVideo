@@ -918,7 +918,6 @@ $t['ID'] = 'ID';
 $t['IP Address'] = 'IP Address';
 $t['IP'] = 'IP';
 $t['If the system finds a valid public key we will challenge you to decrypt a message so that you can log into the system. so make sure you have the private key equivalent to this public key'] = 'If the system finds a valid public key we will challenge you to decrypt a message so that you can log into the system. so make sure you have the private key equivalent to this public key';
-$t['If you change your password the Server URL parameters will be changedtoo.'] = 'If you change your password the Server URL parameters will be changedtoo.';
 $t['Image'] = 'Image';
 $t['Images'] = 'Images';
 $t['Import a MP4 File'] = 'Import a MP4 File';

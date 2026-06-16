@@ -660,7 +660,6 @@ $t['If you are not sure how to configure your email'] = 'If you are not sure how
 $t['If you can, clear the log-files, reproduce the error and send them. This helps to reduce old or repeating information.'] = 'If you can, clear the log-files, reproduce the error and send them. This helps to reduce old or repeating information.';
 $t["If you can't view this video, your browser does not support HTML5 videos"] = "If you can't view this video, your browser does not support HTML5 videos";
 $t['If you change your password the Server URL parameters will be changed too.'] = 'If you change your password the Server URL parameters will be changed too.';
-$t['If you change your password the Server URL parameters will be changedtoo.'] = 'If you change your password the Server URL parameters will be changedtoo.';
 $t['If you do not have curl, you can alternatively use a recent wget: '] = 'If you do not have curl, you can alternatively use a recent wget: ';
 $t['If you want to tell us, what is not working for you, this is great and helps us, to make the software more stable.'] = 'If you want to tell us, what is not working for you, this is great and helps us, to make the software more stable.';
 $t['Image'] = 'Image';

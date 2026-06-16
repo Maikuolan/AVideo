@@ -444,7 +444,6 @@ $t['If you are not sure how to configure your email'] = 'Se non sei sicuro di co
 $t['If you can, clear the log-files, reproduce the error and send them. This helps to reduce old or repeating information.'] = "Se puoi, cancella i file di registro, riproduci l'errore e inviali. Questo aiuta a ridurre le informazioni vecchie o ripetute.";
 $t["If you can't view this video, your browser does not support HTML5 videos"] = 'Se non puoi visualizzare questo video, il tuo browser non supporta i video HTML5';
 $t['If you change your password the Server URL parameters will be changed too.'] = "Se cambi la tua password, anche i parametri dell'URL del server verranno modificati.";
-$t['If you change your password the Server URL parameters will be changedtoo.'] = "Se cambi la tua password, verranno cambiati anche i parametri dell'URL del server.";
 $t['If you do not have curl, you can alternatively use a recent wget: '] = 'Se non hai curl, puoi in alternativa usare un wget recente: ';
 $t['If you want to tell us, what is not working for you, this is great and helps us, to make the software more stable.'] = 'Se vuoi dirci cosa non funziona per te, questo è fantastico e ci aiuta a rendere il software più stabile.';
 $t['Image'] = 'Immagine';

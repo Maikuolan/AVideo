@@ -1113,6 +1113,8 @@ $t['Your user is not verified, we sent you a new e-mail'] = 'år';
 $t['Your user or password is wrong!'] = 'flere år';
 $t['Your video has NOT been deleted!'] = 'kan du finde på menupunktet. Men der er flere indstillinger tilgængelige; gå til';
 $t['Your video has NOT been saved!'] = 'youtube-dl bruger Python, og nogle servere fulgte ikke med python som standard for at installere Python-typen:';
+$t['newest'] = 'nyeste';
+$t['oldest'] = 'ældste';
 
 
 // Previously missing from file.
@@ -1604,8 +1606,6 @@ $t['minutes'] = 'minutes';
 $t['month'] = 'month';
 $t['months'] = 'months';
 $t['mvideos'] = 'mvideos';
-$t['newest'] = 'newest';
-$t['oldest'] = 'oldest';
 $t['or user group selected below'] = 'or user group selected below';
 $t['orphanFiles'] = 'orphanFiles';
 $t['pause'] = 'pause';
